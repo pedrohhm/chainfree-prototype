@@ -1,0 +1,65 @@
+Termos de Uso e Consentimento do ChainFree
+Versão 1.0.
+Este documento estabelece as condições de uso do ChainFree e apresenta, em seção própria, o termo de consentimento para o tratamento dos dados pessoais de saúde. O aceite das condições de uso e o consentimento para esse tratamento são escolhas distintas.
+Responsável pelo aplicativo: Pedro Henrique Hideo Makiyama. Canal de atendimento e privacidade: pedrohenriquemakiyama@gmail.com.
+1. Finalidade e limites do aplicativo
+O ChainFree é um aplicativo móvel de suporte complementar a pessoas com sintomas do Transtorno Obsessivo-Compulsivo (TOC), desenvolvido no contexto de um projeto acadêmico de Engenharia de Software.
+Seus recursos previstos incluem psicoeducação, escala semelhante à Y-BOCS, registro de obsessões e compulsões, organização de exercícios de Exposição e Prevenção de Resposta (EPR), acompanhamento de progresso, temporizador, configurações de acessibilidade e orientações de uso.
+O aplicativo não realiza diagnóstico clínico, não prescreve medicamentos ou tratamentos e não substitui acompanhamento por profissional habilitado. As pontuações, mensagens de apoio e formas automáticas de organização dos exercícios têm finalidade informativa e de apoio ao registro pessoal. Não representam avaliação clínica individual nem garantia de melhora.
+A interpretação dos registros e as decisões sobre tratamento devem ser discutidas com profissional habilitado. A utilização dos recursos de EPR deve considerar as orientações do profissional que acompanha o usuário; a organização de exercícios pelo aplicativo não constitui prescrição terapêutica.
+O ChainFree não é serviço de urgência e não oferece monitoramento contínuo. Não há garantia de que registros ou mensagens sejam lidos por alguém. Em situação de emergência, procure um serviço de atendimento de urgência.
+2. Funcionalidades abrangidas por esta versão
+Estes Termos consideram as mudanças aprovadas na documentação do projeto: retirada do módulo funcional do terapeuta da primeira versão e substituição da sincronização em tempo real por sincronização manual.
+Não estão incluídos, na primeira versão, acompanhamento remoto por terapeuta, respostas profissionais, sugestões enviadas pelo profissional ou relatórios disponibilizados por meio desse módulo. Eventuais telas demonstrativas não representam a prestação desses serviços.
+A disponibilidade de cada recurso depende da versão efetivamente entregue e deve ser informada na interface. O planejamento de uma funcionalidade não significa que ela já esteja operacional. A integração futura com terapeutas dependerá de condições específicas e autorização separada para acesso aos registros.
+3. Acesso e cadastro
+O uso exige dispositivo compatível com os requisitos informados na distribuição do aplicativo. Funcionalidades remotas, quando disponíveis, também dependem de conexão à internet.
+O modo visitante permite acesso limitado sem cadastro, conforme as informações apresentadas na interface. A criação de conta, quando disponível, exige o preenchimento dos dados necessários ao cadastro e à autenticação. As informações fornecidas devem ser corretas e atualizadas.
+A conta é pessoal. Você deve proteger suas credenciais e comunicar suspeitas de acesso indevido pelo canal de atendimento. O ChainFree não solicitará o envio da sua senha em mensagens de suporte.
+Público autorizado: pessoas com 18 anos ou mais.
+4. Regras de utilização
+Utilize o aplicativo para fins lícitos e de acordo com sua finalidade. Não tente acessar contas de outras pessoas, contornar mecanismos de segurança, introduzir código malicioso ou interferir no funcionamento do serviço.
+Insira somente informações que você tenha legitimidade para fornecer. Evite registrar dados que identifiquem terceiros sem necessidade. Nos campos destinados a sintomas e experiências pessoais, descreva o que for pertinente à funcionalidade, respeitando sua própria privacidade.
+Você mantém os direitos sobre os registros que inserir. A autorização para processá-los limita-se às finalidades informadas e não transfere ao ChainFree a titularidade sobre suas informações pessoais.
+Conteúdos, software e elementos visuais do aplicativo são protegidos conforme a legislação e as licenças aplicáveis. O acesso permite seu uso pessoal para a finalidade do serviço, sem afastar permissões ou direitos assegurados em lei.
+5. Dados locais e sincronização manual
+O projeto prevê armazenamento local e sincronização sob demanda. Não há promessa de atualização remota em tempo real. Quando a sincronização estiver disponível, você deverá iniciá-la pela função correspondente e verificar o resultado informado na interface.
+Uma tentativa interrompida ou malsucedida não garante a existência de cópia remota atualizada. Registros mantidos apenas no aparelho podem ser perdidos em caso de dano, extravio, desinstalação ou exclusão dos dados locais, conforme o funcionamento do dispositivo.
+O destino dos dados, os prestadores envolvidos e as condições de retenção da sincronização deverão constar da Política de Privacidade antes da ativação desse recurso. A sincronização não autoriza acesso por terapeutas nem uso dos dados em pesquisa.
+6. Assinaturas e funcionalidades futuras
+A documentação prevê a possibilidade de assinaturas premium, mas não define nesta minuta preços, planos, período de cobrança ou prestador de pagamentos. Estes Termos não autorizam cobrança.
+Se um serviço pago for disponibilizado, a contratação dependerá de apresentação prévia e aceite das condições de preço, duração, renovação, cancelamento, reembolso e funcionalidades incluídas, respeitados os direitos do consumidor. Dados necessários à cobrança também deverão ser informados previamente.
+7. Disponibilidade e responsabilidades
+O aplicativo poderá exigir manutenção e atualizações. A equipe responsável deverá informar limitações conhecidas relevantes e interrupções programadas pelos meios disponíveis, buscando corrigir falhas que afetem o serviço ou a segurança.
+Não são prometidos funcionamento ininterrupto, ausência absoluta de falhas ou resultados terapêuticos determinados. Essas limitações não excluem as responsabilidades legalmente atribuídas ao responsável pelo aplicativo.
+O usuário responde por seus atos nos termos da lei. Nenhuma disposição transfere a ele responsabilidade por falhas atribuíveis ao serviço nem afasta direitos previstos na legislação de proteção de dados ou de defesa do consumidor, quando aplicável.
+8. Encerramento e suspensão do acesso
+Você pode deixar de usar o aplicativo e solicitar encerramento da conta pelo recurso disponibilizado ou pelo canal de atendimento. O encerramento será acompanhado das medidas de tratamento e exclusão descritas na Política de Privacidade.
+O acesso poderá ser restringido quando houver risco concreto à segurança ou uso ilícito, na medida necessária à proteção do serviço e de terceiros. Sempre que possível, o usuário será informado do motivo e poderá solicitar revisão pelo canal de atendimento.
+O fim do acesso não autoriza retenção indefinida dos registros. Pedidos de acesso, correção e exclusão continuam sujeitos aos direitos e limites previstos em lei.
+9. Privacidade e alterações dos Termos
+A Política de Privacidade do ChainFree integra as informações sobre o serviço e deve ser disponibilizada antes do aceite. Ela descreve os dados utilizados, sua finalidade, armazenamento, compartilhamento e canais para exercício de direitos.
+Alterações relevantes destes Termos serão comunicadas com indicação da nova versão e de sua vigência. Mudanças que dependam de nova aceitação ou consentimento serão apresentadas para manifestação específica. O silêncio do usuário não autoriza novas finalidades de tratamento de dados de saúde.
+Aplicam-se as leis brasileiras, preservados os meios de reclamação e acesso ao Judiciário previstos em lei, inclusive o foro assegurado ao consumidor quando cabível.
+10. Manifestação de aceite dos Termos de Uso
+Declaro que tive acesso às condições acima, compreendi a finalidade complementar e os limites do ChainFree e pude consultar a Política de Privacidade. Minha escolha abaixo refere-se somente aos Termos de Uso; o tratamento dos meus dados de saúde depende da manifestação separada na seção seguinte.
+Escolha uma opção: ( ) A – CONCORDO com os Termos de Uso. ( ) B – NÃO CONCORDO com os Termos de Uso.
+Se você não concordar, não deverá prosseguir com o uso do serviço sujeito a estes Termos. Isso não impede solicitações relativas a dados eventualmente já tratados.
+11. Termo específico de consentimento para armazenamento e tratamento de dados pessoais de saúde
+Este termo registra a manifestação livre, informada e inequívoca pela qual você autoriza o tratamento especificado abaixo, em conformidade com a Lei nº 13.709/2018, Lei Geral de Proteção de Dados Pessoais (LGPD).
+Controlador responsável: Pedro Henrique Hideo Makiyama. Canal para dúvidas, revogação e exercício de direitos: pedrohenriquemakiyama@gmail.com.
+11.1. Dados e finalidades da autorização
+Autorizo o ChainFree a registrar, armazenar, organizar e processar as informações de saúde que eu inserir ou gerar ao utilizar seus recursos: obsessões, compulsões, gatilhos, intensidade dos sintomas, respostas e resultados da escala semelhante à Y-BOCS, registros de exercícios de EPR, duração, tentativas, resultados e histórico de progresso.
+A autorização destina-se exclusivamente a manter meus registros pessoais, apresentar indicadores de evolução, organizar meus exercícios segundo os critérios do aplicativo e disponibilizar mensagens de apoio relacionadas ao meu histórico. Compreendo que os resultados não constituem diagnóstico, prescrição ou garantia de eficácia terapêutica.
+Os registros serão mantidos no dispositivo conforme os recursos utilizados. Eventual sincronização manual somente ocorrerá mediante minha solicitação e após a apresentação das condições de armazenamento remoto previstas na Política de Privacidade. Este consentimento não autoriza compartilhamento com terapeuta, publicidade, comercialização dos meus registros ou participação em pesquisa.
+11.2. Duração do tratamento e direitos
+Os dados serão conservados enquanto necessários às finalidades autorizadas e ao uso dos recursos, observados os parâmetros de retenção informados na Política de Privacidade e meus pedidos de exclusão. A conservação excepcional após o término dependerá de fundamento legal aplicável e deverá ser explicada pelo controlador.
+Posso solicitar informações sobre a forma e a duração do tratamento, confirmação de sua existência, acesso, correção e atualização dos dados, além de exercer os demais direitos descritos na Política de Privacidade.
+Posso revogar este consentimento gratuitamente pelo canal de privacidade e solicitar a eliminação dos dados tratados com base nele, respeitadas as hipóteses legais de conservação. A revogação impede novos tratamentos baseados nesta autorização, sem tornar automaticamente ilícito o tratamento anterior realizado de forma regular.
+11.3. Consequências da recusa ou revogação
+Se eu recusar ou revogar a autorização, os recursos que precisam registrar e processar meus dados de saúde não poderão funcionar. Poderei utilizar conteúdos informativos e recursos que não dependam desses dados, se disponibilizados na versão utilizada. A recusa não autoriza cobrança adicional nem uso dos registros para outra finalidade.
+11.4. Manifestação específica de vontade
+Declaro que fui informado sobre os dados de saúde envolvidos, as finalidades do tratamento, a forma de armazenamento, os direitos e as consequências da recusa. Tive acesso à Política de Privacidade e ao canal para esclarecimento de dúvidas. Minha decisão é independente do aceite geral dos Termos de Uso.
+Escolha uma opção: ( ) A – CONCORDO com o tratamento dos meus dados pessoais de saúde para as finalidades específicas deste termo. ( ) B – NÃO CONCORDO com esse tratamento.
+Identificação do titular: [nome ou identificação da conta].
+Data da manifestação: [dia/mês/ano].

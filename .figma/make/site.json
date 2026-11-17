@@ -1,0 +1,10 @@
+{
+  "description": "Supports individuals with OCD by tracking symptoms, facilitating patient-therapist communication, and providing psychoeducation and progress monitoring.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
